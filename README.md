@@ -23,3 +23,5 @@ The Java Collection Framework is organized in the form of a hierarchy, with the 
 4- Queue: This is an ordered collection that typically stores elements in a first-in, first-out (FIFO) order. It provides methods like offer(), poll(), and peek() to add, remove, and access elements.
 
 5- Map: This is a key-value pair collection that provides methods to add, remove and access elements by key. It doesn't implement the Collection interface, but it's a part of the Collection Framework.
+
+![java-collection-hierarchy](https://user-images.githubusercontent.com/123876118/234794048-9e0f8167-b374-40d4-a593-a0f27f4948fa.png)
